@@ -1,6 +1,5 @@
 # dnd100
 
-===
 
 #### EN
 Utility for the creation of printed tables with pre-made attack and damage rolls for dnd / d20 / 3d6 based rpg.
@@ -10,7 +9,7 @@ Useful for Masters and for players with high-level PCs (a Conjurer or a PC with 
 
 Intended for use with any d20 game similar to Dungeons and Dragons (r).
 
-===
+-----
 
 #### ITA
 Utility per la creazione di tabelle stampate per la gestione *veloce* di scontri con più mostri, per i giochi di ruolo basati sul sistema d20 (DnD, Pathfinder etc) e 3d6.
